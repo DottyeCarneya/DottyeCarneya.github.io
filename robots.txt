@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://DottyeCarneya.github.io/sitemap.xml.gz
